@@ -1,0 +1,8 @@
+# kickstarter-analysis
+Performing Analyst on kickstarter data 
+# Performed analysis on fundraising. Figuring out theater outcomes vs launch and also the outcomes vs the goals. The reason for this is to help organize a successful fundraiser and to dig deeper in what worked and what didn't.
+# Overall there were know difficulties. I used line graphs to see patterns, to recongnize if theres certain months that are more successful and non successful. i[Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+# The first 6 months of the year is more successful in reaching the goal. Also less people cancel during the first 6 months of the year. 
+# The lower the goal the more successful it is. With that being said there are higher goal projects that were successful, its just a higher success rate for the smaller goal. i[Outcomes_vs_Launch](path/to/Outcomes_vs_Launch.png)
+# There is limitation not showing physical locations of fundraising. The years are limited so we cant look back to far to see trends.
+# Using a pie chart to see percentages of success, fail and cancel would also be a good visiual
